@@ -1,0 +1,6 @@
+@ContatcsManagement_HostAddress = http://localhost:5200
+
+GET {{ContatcsManagement_HostAddress}}/Contact/
+Accept: application/json
+
+###
